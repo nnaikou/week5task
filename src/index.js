@@ -1,6 +1,4 @@
 import "./styles.css";
-import "./leaflet.css";
-import L from "./leaflet";
 
 /*let xVar = 0;*/
 
